@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
 
@@ -20,3 +21,7 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 - Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
 - MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
 - Recharts: Biblioteca para criação de gráficos utilizando React.
+=======
+Curso Alura
+Cypress: automatização de testes web e CI
+>>>>>>> f5beb258a2aad5c46b0cad5a87b2a8a1a23ab7b3

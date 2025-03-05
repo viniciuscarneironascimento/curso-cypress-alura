@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+node_modules
+=======
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+.env
+temp/
+>>>>>>> testes
