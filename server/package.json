@@ -1,9 +1,11 @@
 {
    "name": "api-voll_med",
    "version": "1.0.0",
-   "description": "",
-   "main": "index.js",
+   "description": "- Nesse projeto estamos usando a versão **16.0.0** do NodeJS",
+   "license": "ISC",
+   "author": "",
    "type": "module",
+   "main": "index.js",
    "scripts": {
       "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
       "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --watch",
