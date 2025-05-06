@@ -1,4 +1,4 @@
-## 📂 Nome do projeto: curso-cypress-alura (public)
+## 📂 Projeto: curso-cypress-alura (public)
 
 🔗 [Acesse o repositório no GitHub](https://github.com/viniciuscarneironascimento/curso-cypress-alura)
 
